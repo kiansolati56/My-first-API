@@ -1,4 +1,3 @@
-```md
 # Fullstack Posts App (Laravel + Nuxt 4)
 
 A simple but modern fullstack application built with:
